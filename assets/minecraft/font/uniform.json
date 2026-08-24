@@ -3,8 +3,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/logo.png",
-      "ascent": 80,
-      "height": 140,
+      "ascent": 32,
+      "height": 38,
       "chars": [
         "\ueff1"
       ]
@@ -12,8 +12,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/logo.png",
-      "ascent": 80,
-      "height": 140,
+      "ascent": 32,
+      "height": 38,
       "chars": [
         "\ue001"
       ]
@@ -21,8 +21,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/logo.png",
-      "ascent": 80,
-      "height": 140,
+      "ascent": 32,
+      "height": 38,
       "chars": [
         "\ue000"
       ]
@@ -30,8 +30,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/logo.png",
-      "ascent": 80,
-      "height": 140,
+      "ascent": 32,
+      "height": 38,
       "chars": [
         "\uf8ff"
       ]
@@ -39,8 +39,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/logo.png",
-      "ascent": 80,
-      "height": 140,
+      "ascent": 32,
+      "height": 38,
       "chars": [
         "\ue100"
       ]
