@@ -6,15 +6,16 @@
 - Полная поддержка **Minecraft 1.21.x** (включая 1.21.4–1.21.11 `assets/minecraft/items/`).
 - 32-направленная динамическая анимация для военных компасов и эхо-локатора розыска.
 - Кастомные текстуры и модели для всех предметов плагина Hegemony (Правосудие, Война, Земли, Почта, Призраки, GUI).
+- Поддержка логотипа на кодовых позициях `\ueff1`, `\ue001`, `\ue000`, `\uf8ff`, `\ue100` для любых плагинов.
 - Нативный провайдер отрицательных пробелов и отображение логотипа для всех клиентов (Vanilla, OptiFine, Fabric, Forge, Lunar).
 - Поддержка оверлеев ModelEngine (1.19.4 – 1.21.x).
 
 ## ⚙️ Настройка в `server.properties`
 
 ```properties
-resource-pack-id=b81bea35-d834-4d49-89b4-9ac97db47414
-resource-pack=https://github.com/TheStilk/TinyPack/releases/download/v1.0.3/TinyPack.zip
-resource-pack-sha1=a699ae7a213840f2c7a91eb74ce53f58d5db2d93
+resource-pack-id=174ab896-789e-4595-bed4-8ae013f02fa0
+resource-pack=https://github.com/TheStilk/TinyPack/releases/download/v1.0.4/TinyPack.zip
+resource-pack-sha1=e8c7bed74f6588f185c6a8196c2b65d572e64f67
 require-resource-pack=true
 resource-pack-prompt={\"text\":\"§bTinyWorld §7• §fПожалуйста, установите ресурспак для комфортной игры!\"}
 ```

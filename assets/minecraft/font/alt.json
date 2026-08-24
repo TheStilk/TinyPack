@@ -10,6 +10,42 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "minecraft:font/logo.png",
+      "ascent": 80,
+      "height": 140,
+      "chars": [
+        "\ue001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/logo.png",
+      "ascent": 80,
+      "height": 140,
+      "chars": [
+        "\ue000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/logo.png",
+      "ascent": 80,
+      "height": 140,
+      "chars": [
+        "\uf8ff"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/logo.png",
+      "ascent": 80,
+      "height": 140,
+      "chars": [
+        "\ue100"
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "\uf801": -1,
