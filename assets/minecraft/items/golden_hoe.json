@@ -1,0 +1,40 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {
+        "threshold": 30002.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/surveyor_wand"
+        }
+      },
+      {
+        "threshold": 31009.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/jail_key"
+        }
+      },
+      {
+        "threshold": 31015.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/surveyor_wand"
+        }
+      },
+      {
+        "threshold": 99999.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/surveyor_wand"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/golden_hoe"
+    }
+  }
+}

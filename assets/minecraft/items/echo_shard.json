@@ -1,0 +1,33 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {
+        "threshold": 1.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/lost_soul_shard"
+        }
+      },
+      {
+        "threshold": 30001.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/lost_soul_shard"
+        }
+      },
+      {
+        "threshold": 31019.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/lost_soul_shard"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/echo_shard"
+    }
+  }
+}

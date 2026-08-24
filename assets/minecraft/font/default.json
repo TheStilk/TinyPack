@@ -1,0 +1,23 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "minecraft:negative_spaces.ttf",
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "size": 10.0,
+      "oversample": 1.0
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/logo.png",
+      "ascent": 80,
+      "height": 140,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

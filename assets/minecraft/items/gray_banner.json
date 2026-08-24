@@ -1,0 +1,37 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {
+        "threshold": 1.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hermit_banner"
+        }
+      },
+      {
+        "threshold": 30001.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hermit_banner"
+        }
+      },
+      {
+        "threshold": 31016.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hermit_banner"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:special",
+      "base": "minecraft:item/template_banner",
+      "model": {
+        "type": "minecraft:banner",
+        "color": "gray"
+      }
+    }
+  }
+}

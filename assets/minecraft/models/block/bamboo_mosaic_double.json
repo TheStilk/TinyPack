@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/half_carved_bamboo_log2",
+    "side": "minecraft:block/half_carved_bamboo_log2"
+  }
+}

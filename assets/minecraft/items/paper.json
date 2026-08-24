@@ -1,0 +1,89 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {
+        "threshold": 999.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/research"
+        }
+      },
+      {
+        "threshold": 30001.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/physical_currency"
+        }
+      },
+      {
+        "threshold": 30003.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/reinforced_lock"
+        }
+      },
+      {
+        "threshold": 31001.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/war_status_attack"
+        }
+      },
+      {
+        "threshold": 31002.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/war_status_defense"
+        }
+      },
+      {
+        "threshold": 31003.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/war_status_rear"
+        }
+      },
+      {
+        "threshold": 31005.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/gui_government_type"
+        }
+      },
+      {
+        "threshold": 32101.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/gui_front_marker_1"
+        }
+      },
+      {
+        "threshold": 32102.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/gui_front_marker_2"
+        }
+      },
+      {
+        "threshold": 32103.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/gui_front_marker_3"
+        }
+      },
+      {
+        "threshold": 40001.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/mail_letter"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {
+        "threshold": 31017.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/parcel_box"
+        }
+      },
+      {
+        "threshold": 40002.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/parcel_box"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:special",
+      "base": "minecraft:item/chest",
+      "model": {
+        "type": "minecraft:chest",
+        "texture": "minecraft:normal"
+      }
+    }
+  }
+}

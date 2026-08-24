@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "type=double":
+      {
+        "model": "block/birch_planks_double"
+      }
+  }
+}

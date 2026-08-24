@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/models/mso_spittleshrub","particle":"#0"},"elements":[{"from":[-4.0,8.0,3.0],"to":[8.0,8.0,13.0],"faces":{"up":{"uv":[2.25,7.0,1.5,5.75],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[2.25,5.75,1.5,7.0],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}

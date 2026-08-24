@@ -1,0 +1,54 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {
+        "threshold": 30002.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/lockpick"
+        }
+      },
+      {
+        "threshold": 30003.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/reinforced_lock"
+        }
+      },
+      {
+        "threshold": 30006.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/jail_key"
+        }
+      },
+      {
+        "threshold": 31002.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/lockpick"
+        }
+      },
+      {
+        "threshold": 31003.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/reinforced_lock"
+        }
+      },
+      {
+        "threshold": 31009.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/jail_key"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/tripwire_hook"
+    }
+  }
+}

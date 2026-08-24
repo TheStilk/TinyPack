@@ -1,0 +1,74 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {
+        "threshold": 101.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/head_sack"
+        }
+      },
+      {
+        "threshold": 102.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/gag"
+        }
+      },
+      {
+        "threshold": 103.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/head_sack_and_gag"
+        }
+      },
+      {
+        "threshold": 30007.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/disguise_mask"
+        }
+      },
+      {
+        "threshold": 31005.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/head_sack"
+        }
+      },
+      {
+        "threshold": 31006.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/gag"
+        }
+      },
+      {
+        "threshold": 31007.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/head_sack_and_gag"
+        }
+      },
+      {
+        "threshold": 31010.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/disguise_mask"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/leather_helmet",
+      "tints": [
+        {
+          "type": "minecraft:dye",
+          "default": -6265536
+        }
+      ]
+    }
+  }
+}
