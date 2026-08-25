@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "minecraft:block/carved_crimson_hyphae",
-    "side": "minecraft:block/carved_crimson_hyphae2"
-  }
-}

@@ -1,0 +1,76 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {"type": "minecraft:model",
+      "model": "tac:table/carved/jungle/top_table_carved_jungle"
+    },
+    "entries": [
+      {"threshold": 0, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/legs_whole_carved_jungle"}
+      ]}},
+      {"threshold": 1, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_side_s_carved_jungle"}
+      ]}},
+      {"threshold": 2, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_side_w_carved_jungle"}
+      ]}},
+      {"threshold": 3, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_corner_w_carved_jungle"}
+      ]}},
+      {"threshold": 4, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_side_n_carved_jungle"}
+      ]}},
+      {"threshold": 5, "model": {"type": "minecraft:composite","models": [
+          {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_skirt_e_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_skirt_w_carved_jungle"}
+      ]}},
+      {"threshold": 6, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_corner_n_carved_jungle"}
+      ]}},
+      {"threshold": 7, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_skirt_w_carved_jungle"}
+      ]}},
+      {"threshold": 8, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_side_e_carved_jungle"}
+      ]}},
+      {"threshold": 9, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_corner_s_carved_jungle"}
+      ]}},
+      {"threshold": 10, "model": {"type": "minecraft:composite","models": [
+          {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_skirt_s_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_skirt_n_carved_jungle"}
+      ]}},
+      {"threshold": 11, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_skirt_s_carved_jungle"}
+      ]}},
+      {"threshold": 12, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_corner_e_carved_jungle"}
+      ]}},
+      {"threshold": 13, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_skirt_e_carved_jungle"}
+      ]}},
+      {"threshold": 14, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle"},
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/facing/legs_skirt_n_carved_jungle"}
+      ]}},
+      {"threshold": 15, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/jungle/top_table_carved_jungle" }
+      ]}}
+    ]
+  }
+}

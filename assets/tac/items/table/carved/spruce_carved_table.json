@@ -1,0 +1,76 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {"type": "minecraft:model",
+      "model": "tac:table/carved/spruce/top_table_carved_spruce"
+    },
+    "entries": [
+      {"threshold": 0, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/legs_whole_carved_spruce"}
+      ]}},
+      {"threshold": 1, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_side_s_carved_spruce"}
+      ]}},
+      {"threshold": 2, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_side_w_carved_spruce"}
+      ]}},
+      {"threshold": 3, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_corner_w_carved_spruce"}
+      ]}},
+      {"threshold": 4, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_side_n_carved_spruce"}
+      ]}},
+      {"threshold": 5, "model": {"type": "minecraft:composite","models": [
+          {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_skirt_e_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_skirt_w_carved_spruce"}
+      ]}},
+      {"threshold": 6, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_corner_n_carved_spruce"}
+      ]}},
+      {"threshold": 7, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_skirt_w_carved_spruce"}
+      ]}},
+      {"threshold": 8, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_side_e_carved_spruce"}
+      ]}},
+      {"threshold": 9, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_corner_s_carved_spruce"}
+      ]}},
+      {"threshold": 10, "model": {"type": "minecraft:composite","models": [
+          {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_skirt_s_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_skirt_n_carved_spruce"}
+      ]}},
+      {"threshold": 11, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_skirt_s_carved_spruce"}
+      ]}},
+      {"threshold": 12, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_corner_e_carved_spruce"}
+      ]}},
+      {"threshold": 13, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_skirt_e_carved_spruce"}
+      ]}},
+      {"threshold": 14, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce"},
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/facing/legs_skirt_n_carved_spruce"}
+      ]}},
+      {"threshold": 15, "model": {"type": "minecraft:composite","models": [
+        {"type": "minecraft:model","model": "tac:table/carved/spruce/top_table_carved_spruce" }
+      ]}}
+    ]
+  }
+}

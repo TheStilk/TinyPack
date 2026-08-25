@@ -1,0 +1,9 @@
+{
+  "parent": "tac:bench/basic/shapes_template/basic_bench_corner_outer",
+  "textures": {
+    "0": "minecraft:block/warped_planks",
+    "1": "minecraft:block/stripped_warped_stem",
+		"2": "block/stripped_warped_stem_top",
+    "particle": "block/stripped_warped_stem"
+  }
+}
