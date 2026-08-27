@@ -1,48 +1,41 @@
 {
   "pack": {
     "pack_format": 46,
-    "supported_formats": {
-      "min_inclusive": 15,
-      "max_inclusive": 999
-    },
+    "supported_formats": [
+      15,
+      64
+    ],
     "description": "§x§3§8§e§f§7§dTinyWorld §7• §fРесурспак\n§b» §7Создай величайшую страну"
   },
   "overlays": {
     "entries": [
       {
-        "formats": {
-          "min_inclusive": 15,
-          "max_inclusive": 35
-        },
+        "formats": [
+          15,
+          35
+        ],
         "directory": "modelengine_1_19_4"
       },
       {
-        "formats": {
-          "min_inclusive": 36,
-          "max_inclusive": 54
-        },
+        "formats": [
+          36,
+          54
+        ],
         "directory": "modelengine_1_21_2"
       },
       {
-        "formats": {
-          "min_inclusive": 55,
-          "max_inclusive": 62
-        },
+        "formats": [
+          55,
+          62
+        ],
         "directory": "modelengine_1_21_5"
       },
       {
-        "formats": {
-          "min_inclusive": 63,
-          "max_inclusive": 83
-        },
+        "formats": [
+          63,
+          64
+        ],
         "directory": "modelengine_1_21_6"
-      },
-      {
-        "formats": {
-          "min_inclusive": 84,
-          "max_inclusive": 999
-        },
-        "directory": "modelengine_26_1"
       }
     ]
   },
