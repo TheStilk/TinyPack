@@ -1,1 +1,0 @@
-$setblock ~ ~ ~ $(mat)_planks

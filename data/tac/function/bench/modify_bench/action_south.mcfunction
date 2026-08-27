@@ -1,2 +1,0 @@
-execute if entity @s[type=armor_stand, tag=tac] if entity @n[type=item_display, tag=bench, distance=..0.5] run function tac:bench/modify_bench/action_south/bulk_action with entity @s equipment.feet.components."minecraft:custom_data"
-execute if entity @s[type=block_display, tag=tac] if entity @n[type=item_display, tag=bench, distance=..0.5] run function tac:bench/modify_bench/action_south/bulk_action with entity @n[type=block_display, tag=tac, tag=origin] data
