@@ -1,0 +1,2 @@
+$execute unless data entity @n[type=item_display,tag=chair,distance=..0.61] {item:{components:{"minecraft:custom_model_data":{strings:[""]}}}} unless data entity @n[type=item_display,tag=chair,distance=..0.61] {item:{components:{"minecraft:custom_model_data":{strings:["$(id)"]}}}} run function tac:chair/rclick_chair/action/drop_carpet
+$execute unless data entity @n[type=item_display,tag=chair,distance=..0.61] {item:{components:{"minecraft:custom_model_data":{strings:["$(id)"]}}}} run function tac:chair/rclick_chair/action/set_carpet

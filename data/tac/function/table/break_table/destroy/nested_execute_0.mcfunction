@@ -1,0 +1,2 @@
+data modify entity @s Item set from entity @n[type=minecraft:item_display, distance=0..0.35] item
+data modify entity @s Item.components."minecraft:custom_model_data".floats[0] set value 0.0f

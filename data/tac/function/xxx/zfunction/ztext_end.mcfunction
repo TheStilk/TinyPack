@@ -1,0 +1,8 @@
+execute store result storage tac:main destroyCount int 1 run scoreboard players get destroy-count tac.main
+scoreboard players operation total tac.main = tables tac.main
+scoreboard players operation total tac.main += chairs tac.main
+execute store result storage tac:main objectCount int 1 run scoreboard players get total tac.main
+scoreboard players reset destroy-count tac.main
+scoreboard players reset total tac.main
+scoreboard players reset #is-destroying tac.main
+function tac:xxx/zfunction/ztext_end/nested_macro_0 with storage tac:main

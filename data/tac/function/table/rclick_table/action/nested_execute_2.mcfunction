@@ -1,0 +1,3 @@
+execute unless data entity @s SelectedItem.components."minecraft:custom_data"{model: "bench"} if data entity @s SelectedItem.components."minecraft:custom_data"{tac: 1b} align xyz positioned ~0.5 ~1 ~0.5 run function tac:table/rclick_table/action/nested_macro_0 with entity @s SelectedItem.components."minecraft:custom_data"
+execute if data entity @s SelectedItem{id: "minecraft:item_frame"} align y positioned ~ ~1 ~ run function tac:table/rclick_table/action/nested_execute_0
+execute if data entity @s SelectedItem{id: "minecraft:glow_item_frame"} align y positioned ~ ~1 ~ run function tac:table/rclick_table/action/nested_execute_1

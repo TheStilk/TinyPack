@@ -1,0 +1,1 @@
+$tellraw @a ["",{"text":"[T&C]: "},{"text":"$(destroyCount)","color":"aqua"},{"text":" furniture removed/modified. ","color":"yellow"},{"text":"$(objectCount)*","color":"aqua"},{"text":" still remain.","color":"yellow"}]

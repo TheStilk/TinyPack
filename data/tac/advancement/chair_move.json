@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "player": {
+          "flags": {
+            "is_sneaking": true
+          }
+        },
+        "entity": {
+          "entity_type":"minecraft:interaction",
+          "nbt": "{Tags:[\"chair\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "tac:chair/move_chair"
+  }
+}
