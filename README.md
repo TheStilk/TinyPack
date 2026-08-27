@@ -7,6 +7,7 @@
 - 32-направленная динамическая анимация для военных компасов и эхо-локатора розыска.
 - Кастомные текстуры и модели для всех предметов плагина Hegemony (Правосудие, Война, Земли, Почта, Призраки, GUI).
 - 3 артефакта измерений (Сфера Обычного мира, Ядро Незера, Око Бездны) в аутентичном стиле предметов Minecraft для суффиксов в Табе (`\ue002`, `\ue003`, `\ue004`).
+- Исправлено отображение голов игроков и щитов (удалены конфликтующие кастомные шейдеры).
 - Поддержка логотипа на кодовых позициях `\ueff1`, `\ue001`, `\ue000`, `\uf8ff`, `\ue100` для любых плагинов.
 - Нативный провайдер отрицательных пробелов и отображение логотипа для всех клиентов.
 - Поддержка оверлеев ModelEngine (1.19.4 – 1.21.x).
@@ -14,9 +15,9 @@
 ## ⚙️ Настройка в `server.properties`
 
 ```properties
-resource-pack-id=a7d43900-4d54-4de1-bb28-c95c7b94bdef
-resource-pack=https://github.com/TheStilk/TinyPack/releases/download/v1.1.4/TinyPack.zip
-resource-pack-sha1=ccc6278ba09db9f41beaee0cdc24c4623c7c86f5
+resource-pack-id=374c0a4b-0060-4391-a229-826c2beb4c58
+resource-pack=https://github.com/TheStilk/TinyPack/releases/download/v1.1.5/TinyPack.zip
+resource-pack-sha1=1c8503fc09d1bb59dc5c04f3004f95bb5bf5bb6c
 resource-pack-prompt={\"text\":\"§bTinyWorld §7• §fПожалуйста, установите ресурспак для комфортной игры!\"}
 ```
 

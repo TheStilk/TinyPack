@@ -38,11 +38,5 @@
         "directory": "modelengine_1_21_6"
       }
     ]
-  },
-  "sodium": {
-    "ignored_shaders": [
-      "rendertype_entity_translucent.fsh",
-      "rendertype_entity_translucent.vsh"
-    ]
   }
 }
