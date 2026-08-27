@@ -6,7 +6,7 @@
 - Полная поддержка **Minecraft 1.21.x** (включая 1.21.4–1.21.11 `assets/minecraft/items/`).
 - 32-направленная динамическая анимация для военных компасов и эхо-локатора розыска.
 - Кастомные текстуры и модели для всех предметов плагина Hegemony (Правосудие, Война, Земли, Почта, Призраки, GUI).
-- 3 высокодетализированных значка измерений 32×32 (Обычный мир, Незер, Край) для суффиксов в Табе (`\ue002`, `\ue003`, `\ue004`).
+- 3 чётких пиксельных значка измерений 32×32 (Обычный мир, Незер, Край) без мыла для суффиксов в Табе (`\ue002`, `\ue003`, `\ue004`).
 - Поддержка логотипа на кодовых позициях `\ueff1`, `\ue001`, `\ue000`, `\uf8ff`, `\ue100` для любых плагинов.
 - Нативный провайдер отрицательных пробелов и отображение логотипа для всех клиентов.
 - Поддержка оверлеев ModelEngine (1.19.4 – 1.21.x).
@@ -14,14 +14,13 @@
 ## ⚙️ Настройка в `server.properties`
 
 ```properties
-resource-pack-id=5cf16c38-ba60-4f26-8eab-6db8de44f6aa
-resource-pack=https://github.com/TheStilk/TinyPack/releases/download/v1.0.9/TinyPack.zip
-resource-pack-sha1=0842a1afbb40418f6bd000c346742d8ac655087d
-require-resource-pack=true
+resource-pack-id=f4e866d0-c8bd-4aa5-b266-e0b2d9d3a90a
+resource-pack=https://github.com/TheStilk/TinyPack/releases/download/v1.1.0/TinyPack.zip
+resource-pack-sha1=d6dee1654582f3f215fcb7d3a534ef5af1949ab0
 resource-pack-prompt={\"text\":\"§bTinyWorld §7• §fПожалуйста, установите ресурспак для комфортной игры!\"}
 ```
 
-## 🌌 Значки измерений для TAB Suffix (32×32)
+## 🌌 Значки измерений для TAB Suffix (32×32 Пиксель-арт)
 
 | Измерение | Символ | Юникод | Текстура |
 | :--- | :---: | :---: | :--- |
