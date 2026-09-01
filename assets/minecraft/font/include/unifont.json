@@ -15,34 +15,7 @@
       "ascent": 32,
       "height": 38,
       "chars": [
-        "\ue001"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/logo.png",
-      "ascent": 32,
-      "height": 38,
-      "chars": [
-        "\ue000"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/logo.png",
-      "ascent": 32,
-      "height": 38,
-      "chars": [
-        "\uf8ff"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/logo.png",
-      "ascent": 32,
-      "height": 38,
-      "chars": [
-        "\ue100"
+        "\ueff0"
       ]
     },
     {
@@ -51,7 +24,7 @@
       "ascent": 7,
       "height": 8,
       "chars": [
-        "\ue002"
+        "\ueff2"
       ]
     },
     {
@@ -60,16 +33,7 @@
       "ascent": 7,
       "height": 8,
       "chars": [
-        "\ue101"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/dimension_overworld.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue201"
+        "\uef01"
       ]
     },
     {
@@ -78,7 +42,7 @@
       "ascent": 7,
       "height": 8,
       "chars": [
-        "\ue003"
+        "\ueff3"
       ]
     },
     {
@@ -87,16 +51,7 @@
       "ascent": 7,
       "height": 8,
       "chars": [
-        "\ue102"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/dimension_nether.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue202"
+        "\uef02"
       ]
     },
     {
@@ -105,7 +60,7 @@
       "ascent": 7,
       "height": 8,
       "chars": [
-        "\ue004"
+        "\ueff4"
       ]
     },
     {
@@ -114,16 +69,7 @@
       "ascent": 7,
       "height": 8,
       "chars": [
-        "\ue103"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/dimension_the_end.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue203"
+        "\uef03"
       ]
     },
     {
