@@ -1,0 +1,23 @@
+{
+  "custom.chicken_howling": {
+    "category": "master",
+    "subtitle": "Куриный вой",
+    "sounds": [
+      "custom/chicken_howling"
+    ]
+  },
+  "entity.chicken.howling": {
+    "category": "neutral",
+    "subtitle": "Куриный вой",
+    "sounds": [
+      "custom/chicken_howling"
+    ]
+  },
+  "chicken_howling": {
+    "category": "master",
+    "subtitle": "Куриный вой",
+    "sounds": [
+      "custom/chicken_howling"
+    ]
+  }
+}

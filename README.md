@@ -5,6 +5,8 @@
 ## 📋 Особенности
 - Полная поддержка **Minecraft 1.21.x** (включая 1.21.4–1.21.11 `assets/minecraft/items/`).
 - 4 кастомных пирога на базе `PUMPKIN_PIE` (`20000`–`20003`): Яблочный, Ягодный, Морковный, Картофельный.
+- Кастомный звук `chicken_howling` (`custom.chicken_howling`, `entity.chicken.howling`).
+- Обновлённые модели и текстуры ModelEngine (включая `fatchicken`).
 - 32-направленная динамическая анимация для военных компасов и эхо-локатора розыска.
 - Кастомные текстуры и модели для всех предметов плагина Hegemony (Правосудие, Война, Земли, Почта, Призраки, GUI).
 - 3 артефакта измерений (Сфера Обычного мира, Ядро Незера, Око Бездны) для суффиксов в Табе (`\ueff2`, `\ueff3`, `\ueff4`).
@@ -15,11 +17,19 @@
 ## ⚙️ Настройка в `server.properties`
 
 ```properties
-resource-pack-id=02f52348-d436-402d-a4b0-5ef88463b3f4
-resource-pack=https://github.com/TheStilk/TinyPack/releases/download/v1.1.7/TinyPack.zip
-resource-pack-sha1=c9ff02450ae2aae4c1e3c359c193747b52e6f0eb
+resource-pack-id=bf26801c-4ddf-4aa1-b04f-70362e3c3555
+resource-pack=https://github.com/TheStilk/TinyPack/releases/download/v1.1.8/TinyPack.zip
+resource-pack-sha1=3100c5fd305d136e3a215e57f381d44fa00c8e61
 resource-pack-prompt={\"text\":\"§bTinyWorld §7• §fПожалуйста, установите ресурспак для комфортной игры!\"}
 ```
+
+## 🔊 Кастомные звуки
+
+| Идентификатор звука | Команда для воспроизведения | Файл |
+| :--- | :--- | :--- |
+| **`custom.chicken_howling`** | `/playsound custom.chicken_howling master @a` | `sounds/custom/chicken_howling.ogg` |
+| **`entity.chicken.howling`** | `/playsound entity.chicken.howling neutral @a` | `sounds/custom/chicken_howling.ogg` |
+| **`chicken_howling`** | `/playsound chicken_howling master @a` | `sounds/custom/chicken_howling.ogg` |
 
 ## 🥧 Пироги (`PUMPKIN_PIE`)
 
