@@ -1,0 +1,565 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    },
+    "cases": [
+      {
+        "when": 10001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/amogus_blue"
+        }
+      },
+      {
+        "when": 10002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/amogus_green"
+        }
+      },
+      {
+        "when": 10003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/amogus_pink"
+        }
+      },
+      {
+        "when": 10004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/amogus_purple"
+        }
+      },
+      {
+        "when": 10005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/amogus_red"
+        }
+      },
+      {
+        "when": 10006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/amogus_white"
+        }
+      },
+      {
+        "when": 10007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/amogus_yellow"
+        }
+      },
+      {
+        "when": 10008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/arrow"
+        }
+      },
+      {
+        "when": 10009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/bag"
+        }
+      },
+      {
+        "when": 10010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/basketball"
+        }
+      },
+      {
+        "when": 10011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/bottle"
+        }
+      },
+      {
+        "when": 10012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/bowl"
+        }
+      },
+      {
+        "when": 10013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/bunny"
+        }
+      },
+      {
+        "when": 10014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/carrot"
+        }
+      },
+      {
+        "when": 10015,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/cat"
+        }
+      },
+      {
+        "when": 10016,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/catin"
+        }
+      },
+      {
+        "when": 10017,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/cone"
+        }
+      },
+      {
+        "when": 10018,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/creeper"
+        }
+      },
+      {
+        "when": 10019,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/crown"
+        }
+      },
+      {
+        "when": 10020,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/dealwithit"
+        }
+      },
+      {
+        "when": 10021,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/diamond_top"
+        }
+      },
+      {
+        "when": 10022,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/diamond_under"
+        }
+      },
+      {
+        "when": 10023,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/dimadome"
+        }
+      },
+      {
+        "when": 10024,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_blue"
+        }
+      },
+      {
+        "when": 10025,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_green"
+        }
+      },
+      {
+        "when": 10026,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_light_blue"
+        }
+      },
+      {
+        "when": 10027,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_orange"
+        }
+      },
+      {
+        "when": 10028,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_pink"
+        }
+      },
+      {
+        "when": 10029,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_rainbow"
+        }
+      },
+      {
+        "when": 10030,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_red"
+        }
+      },
+      {
+        "when": 10031,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_violet"
+        }
+      },
+      {
+        "when": 10032,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_yellow"
+        }
+      },
+      {
+        "when": 10033,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/fire"
+        }
+      },
+      {
+        "when": 10034,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/firefly"
+        }
+      },
+      {
+        "when": 10035,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/firework"
+        }
+      },
+      {
+        "when": 10036,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/flower"
+        }
+      },
+      {
+        "when": 10037,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/fryingpan"
+        }
+      },
+      {
+        "when": 10038,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/grind"
+        }
+      },
+      {
+        "when": 10039,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/halo"
+        }
+      },
+      {
+        "when": 10040,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/hard"
+        }
+      },
+      {
+        "when": 10041,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/heart_ant"
+        }
+      },
+      {
+        "when": 10042,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/jolly"
+        }
+      },
+      {
+        "when": 10043,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/jolly_tree"
+        }
+      },
+      {
+        "when": 10044,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/justvanillamc"
+        }
+      },
+      {
+        "when": 10045,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/leprechaun"
+        }
+      },
+      {
+        "when": 10046,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/masons"
+        }
+      },
+      {
+        "when": 10047,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/moon"
+        }
+      },
+      {
+        "when": 10048,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/party"
+        }
+      },
+      {
+        "when": 10049,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plunger"
+        }
+      },
+      {
+        "when": 10050,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_colo"
+        }
+      },
+      {
+        "when": 10051,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_exo"
+        }
+      },
+      {
+        "when": 10052,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_fran"
+        }
+      },
+      {
+        "when": 10053,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_gwen"
+        }
+      },
+      {
+        "when": 10054,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_ibod"
+        }
+      },
+      {
+        "when": 10055,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_john"
+        }
+      },
+      {
+        "when": 10056,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_mrblack"
+        }
+      },
+      {
+        "when": 10057,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_mrinf"
+        }
+      },
+      {
+        "when": 10058,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_ned"
+        }
+      },
+      {
+        "when": 10059,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_pr"
+        }
+      },
+      {
+        "when": 10060,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_prof"
+        }
+      },
+      {
+        "when": 10061,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_woofer"
+        }
+      },
+      {
+        "when": 10062,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_yatzy"
+        }
+      },
+      {
+        "when": 10063,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_zagg"
+        }
+      },
+      {
+        "when": 10064,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/present"
+        }
+      },
+      {
+        "when": 10065,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/propellerhat"
+        }
+      },
+      {
+        "when": 10066,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/quest_blue"
+        }
+      },
+      {
+        "when": 10067,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/quest_yellow"
+        }
+      },
+      {
+        "when": 10068,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/sheep"
+        }
+      },
+      {
+        "when": 10069,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/straw"
+        }
+      },
+      {
+        "when": 10070,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/techno"
+        }
+      },
+      {
+        "when": 10071,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/top"
+        }
+      },
+      {
+        "when": 10072,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/tree"
+        }
+      },
+      {
+        "when": 10073,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/true_tree"
+        }
+      },
+      {
+        "when": 10074,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/turkey"
+        }
+      },
+      {
+        "when": 10075,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/turtle"
+        }
+      },
+      {
+        "when": 10076,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/ushanka"
+        }
+      },
+      {
+        "when": 10077,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/wild"
+        }
+      },
+      {
+        "when": 10078,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/wizard"
+        }
+      },
+      {
+        "when": 10079,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/yellow"
+        }
+      }
+    ]
+  }
+}

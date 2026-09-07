@@ -1,0 +1,482 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "minecraft:item/hats/amogus_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "minecraft:item/hats/amogus_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "minecraft:item/hats/amogus_pink"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "minecraft:item/hats/amogus_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
+      "model": "minecraft:item/hats/amogus_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10006
+      },
+      "model": "minecraft:item/hats/amogus_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10007
+      },
+      "model": "minecraft:item/hats/amogus_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10008
+      },
+      "model": "minecraft:item/hats/arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10009
+      },
+      "model": "minecraft:item/hats/bag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10010
+      },
+      "model": "minecraft:item/hats/basketball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10011
+      },
+      "model": "minecraft:item/hats/bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10012
+      },
+      "model": "minecraft:item/hats/bowl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10013
+      },
+      "model": "minecraft:item/hats/bunny"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10014
+      },
+      "model": "minecraft:item/hats/carrot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10015
+      },
+      "model": "minecraft:item/hats/cat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10016
+      },
+      "model": "minecraft:item/hats/catin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10017
+      },
+      "model": "minecraft:item/hats/cone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10018
+      },
+      "model": "minecraft:item/hats/creeper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10019
+      },
+      "model": "minecraft:item/hats/crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10020
+      },
+      "model": "minecraft:item/hats/dealwithit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10021
+      },
+      "model": "minecraft:item/hats/diamond_top"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10022
+      },
+      "model": "minecraft:item/hats/diamond_under"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10023
+      },
+      "model": "minecraft:item/hats/dimadome"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10024
+      },
+      "model": "minecraft:item/hats/egg_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10025
+      },
+      "model": "minecraft:item/hats/egg_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10026
+      },
+      "model": "minecraft:item/hats/egg_light_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10027
+      },
+      "model": "minecraft:item/hats/egg_orange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10028
+      },
+      "model": "minecraft:item/hats/egg_pink"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10029
+      },
+      "model": "minecraft:item/hats/egg_rainbow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10030
+      },
+      "model": "minecraft:item/hats/egg_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10031
+      },
+      "model": "minecraft:item/hats/egg_violet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10032
+      },
+      "model": "minecraft:item/hats/egg_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10033
+      },
+      "model": "minecraft:item/hats/fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10034
+      },
+      "model": "minecraft:item/hats/firefly"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10035
+      },
+      "model": "minecraft:item/hats/firework"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10036
+      },
+      "model": "minecraft:item/hats/flower"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10037
+      },
+      "model": "minecraft:item/hats/fryingpan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10038
+      },
+      "model": "minecraft:item/hats/grind"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10039
+      },
+      "model": "minecraft:item/hats/halo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10040
+      },
+      "model": "minecraft:item/hats/hard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10041
+      },
+      "model": "minecraft:item/hats/heart_ant"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10042
+      },
+      "model": "minecraft:item/hats/jolly"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10043
+      },
+      "model": "minecraft:item/hats/jolly_tree"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10044
+      },
+      "model": "minecraft:item/hats/justvanillamc"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10045
+      },
+      "model": "minecraft:item/hats/leprechaun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10046
+      },
+      "model": "minecraft:item/hats/masons"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10047
+      },
+      "model": "minecraft:item/hats/moon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10048
+      },
+      "model": "minecraft:item/hats/party"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10049
+      },
+      "model": "minecraft:item/hats/plunger"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10050
+      },
+      "model": "minecraft:item/hats/plush_colo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10051
+      },
+      "model": "minecraft:item/hats/plush_exo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10052
+      },
+      "model": "minecraft:item/hats/plush_fran"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10053
+      },
+      "model": "minecraft:item/hats/plush_gwen"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10054
+      },
+      "model": "minecraft:item/hats/plush_ibod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10055
+      },
+      "model": "minecraft:item/hats/plush_john"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10056
+      },
+      "model": "minecraft:item/hats/plush_mrblack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10057
+      },
+      "model": "minecraft:item/hats/plush_mrinf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10058
+      },
+      "model": "minecraft:item/hats/plush_ned"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10059
+      },
+      "model": "minecraft:item/hats/plush_pr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10060
+      },
+      "model": "minecraft:item/hats/plush_prof"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10061
+      },
+      "model": "minecraft:item/hats/plush_woofer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10062
+      },
+      "model": "minecraft:item/hats/plush_yatzy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10063
+      },
+      "model": "minecraft:item/hats/plush_zagg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10064
+      },
+      "model": "minecraft:item/hats/present"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10065
+      },
+      "model": "minecraft:item/hats/propellerhat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10066
+      },
+      "model": "minecraft:item/hats/quest_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10067
+      },
+      "model": "minecraft:item/hats/quest_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10068
+      },
+      "model": "minecraft:item/hats/sheep"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10069
+      },
+      "model": "minecraft:item/hats/straw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10070
+      },
+      "model": "minecraft:item/hats/techno"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10071
+      },
+      "model": "minecraft:item/hats/top"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10072
+      },
+      "model": "minecraft:item/hats/tree"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10073
+      },
+      "model": "minecraft:item/hats/true_tree"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10074
+      },
+      "model": "minecraft:item/hats/turkey"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10075
+      },
+      "model": "minecraft:item/hats/turtle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10076
+      },
+      "model": "minecraft:item/hats/ushanka"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10077
+      },
+      "model": "minecraft:item/hats/wild"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10078
+      },
+      "model": "minecraft:item/hats/wizard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10079
+      },
+      "model": "minecraft:item/hats/yellow"
+    }
+  ]
+}

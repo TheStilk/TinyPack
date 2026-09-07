@@ -11,6 +11,559 @@
         }
       },
       {
+        "threshold": 10001.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/amogus_blue"
+        }
+      },
+      {
+        "threshold": 10002.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/amogus_green"
+        }
+      },
+      {
+        "threshold": 10003.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/amogus_pink"
+        }
+      },
+      {
+        "threshold": 10004.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/amogus_purple"
+        }
+      },
+      {
+        "threshold": 10005.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/amogus_red"
+        }
+      },
+      {
+        "threshold": 10006.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/amogus_white"
+        }
+      },
+      {
+        "threshold": 10007.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/amogus_yellow"
+        }
+      },
+      {
+        "threshold": 10008.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/arrow"
+        }
+      },
+      {
+        "threshold": 10009.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/bag"
+        }
+      },
+      {
+        "threshold": 10010.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/basketball"
+        }
+      },
+      {
+        "threshold": 10011.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/bottle"
+        }
+      },
+      {
+        "threshold": 10012.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/bowl"
+        }
+      },
+      {
+        "threshold": 10013.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/bunny"
+        }
+      },
+      {
+        "threshold": 10014.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/carrot"
+        }
+      },
+      {
+        "threshold": 10015.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/cat"
+        }
+      },
+      {
+        "threshold": 10016.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/catin"
+        }
+      },
+      {
+        "threshold": 10017.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/cone"
+        }
+      },
+      {
+        "threshold": 10018.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/creeper"
+        }
+      },
+      {
+        "threshold": 10019.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/crown"
+        }
+      },
+      {
+        "threshold": 10020.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/dealwithit"
+        }
+      },
+      {
+        "threshold": 10021.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/diamond_top"
+        }
+      },
+      {
+        "threshold": 10022.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/diamond_under"
+        }
+      },
+      {
+        "threshold": 10023.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/dimadome"
+        }
+      },
+      {
+        "threshold": 10024.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_blue"
+        }
+      },
+      {
+        "threshold": 10025.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_green"
+        }
+      },
+      {
+        "threshold": 10026.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_light_blue"
+        }
+      },
+      {
+        "threshold": 10027.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_orange"
+        }
+      },
+      {
+        "threshold": 10028.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_pink"
+        }
+      },
+      {
+        "threshold": 10029.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_rainbow"
+        }
+      },
+      {
+        "threshold": 10030.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_red"
+        }
+      },
+      {
+        "threshold": 10031.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_violet"
+        }
+      },
+      {
+        "threshold": 10032.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/egg_yellow"
+        }
+      },
+      {
+        "threshold": 10033.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/fire"
+        }
+      },
+      {
+        "threshold": 10034.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/firefly"
+        }
+      },
+      {
+        "threshold": 10035.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/firework"
+        }
+      },
+      {
+        "threshold": 10036.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/flower"
+        }
+      },
+      {
+        "threshold": 10037.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/fryingpan"
+        }
+      },
+      {
+        "threshold": 10038.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/grind"
+        }
+      },
+      {
+        "threshold": 10039.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/halo"
+        }
+      },
+      {
+        "threshold": 10040.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/hard"
+        }
+      },
+      {
+        "threshold": 10041.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/heart_ant"
+        }
+      },
+      {
+        "threshold": 10042.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/jolly"
+        }
+      },
+      {
+        "threshold": 10043.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/jolly_tree"
+        }
+      },
+      {
+        "threshold": 10044.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/justvanillamc"
+        }
+      },
+      {
+        "threshold": 10045.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/leprechaun"
+        }
+      },
+      {
+        "threshold": 10046.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/masons"
+        }
+      },
+      {
+        "threshold": 10047.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/moon"
+        }
+      },
+      {
+        "threshold": 10048.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/party"
+        }
+      },
+      {
+        "threshold": 10049.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plunger"
+        }
+      },
+      {
+        "threshold": 10050.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_colo"
+        }
+      },
+      {
+        "threshold": 10051.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_exo"
+        }
+      },
+      {
+        "threshold": 10052.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_fran"
+        }
+      },
+      {
+        "threshold": 10053.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_gwen"
+        }
+      },
+      {
+        "threshold": 10054.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_ibod"
+        }
+      },
+      {
+        "threshold": 10055.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_john"
+        }
+      },
+      {
+        "threshold": 10056.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_mrblack"
+        }
+      },
+      {
+        "threshold": 10057.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_mrinf"
+        }
+      },
+      {
+        "threshold": 10058.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_ned"
+        }
+      },
+      {
+        "threshold": 10059.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_pr"
+        }
+      },
+      {
+        "threshold": 10060.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_prof"
+        }
+      },
+      {
+        "threshold": 10061.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_woofer"
+        }
+      },
+      {
+        "threshold": 10062.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_yatzy"
+        }
+      },
+      {
+        "threshold": 10063.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/plush_zagg"
+        }
+      },
+      {
+        "threshold": 10064.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/present"
+        }
+      },
+      {
+        "threshold": 10065.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/propellerhat"
+        }
+      },
+      {
+        "threshold": 10066.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/quest_blue"
+        }
+      },
+      {
+        "threshold": 10067.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/quest_yellow"
+        }
+      },
+      {
+        "threshold": 10068.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/sheep"
+        }
+      },
+      {
+        "threshold": 10069.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/straw"
+        }
+      },
+      {
+        "threshold": 10070.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/techno"
+        }
+      },
+      {
+        "threshold": 10071.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/top"
+        }
+      },
+      {
+        "threshold": 10072.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/tree"
+        }
+      },
+      {
+        "threshold": 10073.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/true_tree"
+        }
+      },
+      {
+        "threshold": 10074.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/turkey"
+        }
+      },
+      {
+        "threshold": 10075.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/turtle"
+        }
+      },
+      {
+        "threshold": 10076.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/ushanka"
+        }
+      },
+      {
+        "threshold": 10077.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/wild"
+        }
+      },
+      {
+        "threshold": 10078.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/wizard"
+        }
+      },
+      {
+        "threshold": 10079.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hats/yellow"
+        }
+      },
+      {
         "threshold": 30001.0,
         "model": {
           "type": "minecraft:model",

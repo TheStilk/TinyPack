@@ -4,6 +4,7 @@
 
 ## 📋 Особенности
 - Полная поддержка **Minecraft 1.21.x** (включая 1.21.4–1.21.11 `assets/minecraft/items/`).
+- 79 косметических шляп **HMCCosmetics** на базе `PAPER` (CustomModelData `10001`–`10079`).
 - 4 кастомных пирога на базе `PUMPKIN_PIE` (`20000`–`20003`): Яблочный, Ягодный, Морковный, Картофельный.
 - Кастомный звук `chicken_howling` (`custom.chicken_howling`, `entity.chicken.howling`).
 - Обновлённые модели и текстуры ModelEngine (включая `fatchicken`).
@@ -17,19 +18,17 @@
 ## ⚙️ Настройка в `server.properties`
 
 ```properties
-resource-pack-id=bf26801c-4ddf-4aa1-b04f-70362e3c3555
-resource-pack=https://github.com/TheStilk/TinyPack/releases/download/v1.1.8/TinyPack.zip
-resource-pack-sha1=3100c5fd305d136e3a215e57f381d44fa00c8e61
+resource-pack-id=965407b4-88fb-4d5c-a73c-3ae7bd9faf36
+resource-pack=https://github.com/TheStilk/TinyPack/releases/download/v1.1.9/TinyPack.zip
+resource-pack-sha1=c7cfd859dcc266487a0c9538a4573e4919503b28
 resource-pack-prompt={\"text\":\"§bTinyWorld §7• §fПожалуйста, установите ресурспак для комфортной игры!\"}
 ```
 
-## 🔊 Кастомные звуки
+## 🎩 Косметические шляпы HMCCosmetics (`PAPER`)
 
-| Идентификатор звука | Команда для воспроизведения | Файл |
-| :--- | :--- | :--- |
-| **`custom.chicken_howling`** | `/playsound custom.chicken_howling master @a` | `sounds/custom/chicken_howling.ogg` |
-| **`entity.chicken.howling`** | `/playsound entity.chicken.howling neutral @a` | `sounds/custom/chicken_howling.ogg` |
-| **`chicken_howling`** | `/playsound chicken_howling master @a` | `sounds/custom/chicken_howling.ogg` |
+| Материал | `CustomModelData` | Количество | Модели |
+| :--- | :---: | :---: | :--- |
+| `PAPER` | `10001` – `10079` | 79 шляп | `minecraft:item/hats/*` |
 
 ## 🥧 Пироги (`PUMPKIN_PIE`)
 
@@ -39,6 +38,14 @@ resource-pack-prompt={\"text\":\"§bTinyWorld §7• §fПожалуйста, у
 | **Ягодный пирог** | `PUMPKIN_PIE` | `20001` | `item/berry_pie` |
 | **Морковный пирог** | `PUMPKIN_PIE` | `20002` | `item/carrot_pie` |
 | **Картофельный пирог** | `PUMPKIN_PIE` | `20003` | `item/potato_pie` |
+
+## 🔊 Кастомные звуки
+
+| Идентификатор звука | Команда для воспроизведения | Файл |
+| :--- | :--- | :--- |
+| **`custom.chicken_howling`** | `/playsound custom.chicken_howling master @a` | `sounds/custom/chicken_howling.ogg` |
+| **`entity.chicken.howling`** | `/playsound entity.chicken.howling neutral @a` | `sounds/custom/chicken_howling.ogg` |
+| **`chicken_howling`** | `/playsound chicken_howling master @a` | `sounds/custom/chicken_howling.ogg` |
 
 ## 🌌 Артефакты измерений для TAB Suffix
 
@@ -52,6 +59,8 @@ resource-pack-prompt={\"text\":\"§bTinyWorld §7• §fПожалуйста, у
 
 | Предмет | Материал | `CustomModelData` | Описание |
 | :--- | :--- | :---: | :--- |
+| **Чертёж исследования** | `PAPER` | `999` | Схемы и чертежи технологий |
+| **Печатное письмо** | `PAPER` | `40001` | Документы, письма, повестки |
 | **Наручники** | `SHEARS` | `31001` | Конвоирование и задержание |
 | **Тюремная отмычка** | `FEATHER` | `31002` | Взлом тюремных решеток и замков |
 | **Замок** | `TRIPWIRE_HOOK` | `31003` | Защита сундуков и дверей |
@@ -72,5 +81,3 @@ resource-pack-prompt={\"text\":\"§bTinyWorld §7• §fПожалуйста, у
 | **Посылочная коробка** | `CHEST` | `31017` | Отправка предметов через почту |
 | **Осколок заблудших душ** | `ECHO_SHARD` | `31019` | Обнаружение душ в радиусе 50 блоков |
 | **Блокнот знакомств** | `WRITABLE_BOOK` | `31021` | Блокнот контактов |
-| **Печатное письмо** | `PAPER` | `40001` | Документы, письма, повестки |
-| **Чертёж исследования** | `PAPER` | `999` | Схемы и чертежи технологий |
