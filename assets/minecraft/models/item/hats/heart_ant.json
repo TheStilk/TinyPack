@@ -2,7 +2,7 @@
   "credit": "Made with Blockbench",
   "textures": {
     "0": "minecraft:item/hats/heart_ant/texture",
-    "1": "minecraft:gui/icons",
+    "1": "minecraft:item/hats/heart_ant/icons",
     "particle": "minecraft:item/hats/heart_ant/texture",
     "missing": "minecraft:item/hats/empty"
   },

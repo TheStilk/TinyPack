@@ -18,9 +18,9 @@
 ## ⚙️ Настройка в `server.properties`
 
 ```properties
-resource-pack-id=965407b4-88fb-4d5c-a73c-3ae7bd9faf36
-resource-pack=https://github.com/TheStilk/TinyPack/releases/download/v1.1.9/TinyPack.zip
-resource-pack-sha1=c7cfd859dcc266487a0c9538a4573e4919503b28
+resource-pack-id=7ff83da6-e3a4-4af6-b685-e0c5e924e98e
+resource-pack=https://github.com/TheStilk/TinyPack/releases/download/v1.2.0/TinyPack.zip
+resource-pack-sha1=a86c5726a01367a7ca5afeed4242bdabaa9e1aad
 resource-pack-prompt={\"text\":\"§bTinyWorld §7• §fПожалуйста, установите ресурспак для комфортной игры!\"}
 ```
 
