@@ -11,6 +11,13 @@
         }
       },
       {
+        "threshold": 1000.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
         "threshold": 10001.0,
         "model": {
           "type": "minecraft:model",
@@ -564,6 +571,13 @@
         }
       },
       {
+        "threshold": 10080.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
         "threshold": 30001.0,
         "model": {
           "type": "minecraft:model",
@@ -571,10 +585,24 @@
         }
       },
       {
+        "threshold": 30002.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
         "threshold": 30003.0,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reinforced_lock"
+        }
+      },
+      {
+        "threshold": 30004.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
         }
       },
       {
@@ -588,14 +616,21 @@
         "threshold": 31002.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/war_status_defense"
+          "model": "minecraft:item/paper"
         }
       },
       {
         "threshold": 31003.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/war_status_rear"
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 31004.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
         }
       },
       {
@@ -603,6 +638,13 @@
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/gui_government_type"
+        }
+      },
+      {
+        "threshold": 31006.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
         }
       },
       {
@@ -616,14 +658,21 @@
         "threshold": 32102.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/gui_front_marker_2"
+          "model": "minecraft:item/paper"
         }
       },
       {
         "threshold": 32103.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/gui_front_marker_3"
+          "model": "minecraft:item/paper"
+        }
+      },
+      {
+        "threshold": 32104.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
         }
       },
       {
@@ -631,6 +680,13 @@
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/mail_letter"
+        }
+      },
+      {
+        "threshold": 40002.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paper"
         }
       }
     ],

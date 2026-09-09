@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "minecraft:block/fire_0",
-    "2": "minecraft:block/fire_1",
-    "particle": "minecraft:block/fire_0",
+    "1": "minecraft:item/hats/fire/fire_0",
+    "2": "minecraft:item/hats/fire/fire_1",
+    "particle": "minecraft:item/hats/fire/fire_0",
     "missing": "minecraft:item/hats/empty"
   },
   "elements": [

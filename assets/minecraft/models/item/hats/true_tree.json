@@ -1,15 +1,14 @@
 {
   "credit": "Made with Blockbench",
-  "parent": "minecraft:block/leaves",
   "texture_size": [
     64,
     64
   ],
   "textures": {
-    "2": "minecraft:block/oak_log",
-    "3": "minecraft:block/oak_log_top",
-    "particle": "minecraft:block/oak_log",
-    "all": "minecraft:block/oak_leaves",
+    "2": "minecraft:item/hats/true_tree/oak_log",
+    "3": "minecraft:item/hats/true_tree/oak_log_top",
+    "particle": "minecraft:item/hats/true_tree/oak_log",
+    "all": "minecraft:item/hats/true_tree/oak_leaves",
     "missing": "minecraft:item/hats/empty"
   },
   "elements": [
