@@ -1,0 +1,39 @@
+{
+  "providers": [
+{
+  "type": "bitmap",
+  "file": "simpolvoicadmin:font/speaking.png",
+  "ascent": 8,
+  "height": 8,
+  "chars": ["\uE100"]
+},
+{
+  "type": "bitmap",
+  "file": "simpolvoicadmin:font/whisper.png",
+  "ascent": 8,
+  "height": 8,
+  "chars": ["\uE101"]
+},
+{
+  "type": "bitmap",
+  "file": "simpolvoicadmin:font/muted.png",
+  "ascent": 8,
+  "height": 8,
+  "chars": ["\uE102"]
+},
+{
+  "type": "bitmap",
+  "file": "simpolvoicadmin:font/disconnected.png",
+  "ascent": 8,
+  "height": 8,
+  "chars": ["\uE103"]
+},
+{
+  "type": "bitmap",
+  "file": "simpolvoicadmin:font/group.png",
+  "ascent": 8,
+  "height": 8,
+  "chars": ["\uE104"]
+}
+  ]
+}
