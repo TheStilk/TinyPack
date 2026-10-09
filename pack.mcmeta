@@ -5,6 +5,14 @@
       15,
       64
     ],
+    "min_format": [
+      15,
+      0
+    ],
+    "max_format": [
+      75,
+      0
+    ],
     "description": "§x§3§8§e§f§7§dTinyWorld §7• §fРесурспак\n§b» §7Создай величайшую страну"
   },
   "overlays": {
