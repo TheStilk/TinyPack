@@ -9,6 +9,13 @@
           "type": "minecraft:model",
           "model": "minecraft:item/void_ring"
         }
+      },
+      {
+        "threshold": 2601002.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/return_sphere"
+        }
       }
     ],
     "fallback": {

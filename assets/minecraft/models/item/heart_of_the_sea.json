@@ -9,6 +9,12 @@
         "custom_model_data": 32003
       },
       "model": "minecraft:item/void_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2601002
+      },
+      "model": "minecraft:item/return_sphere"
     }
   ]
 }
