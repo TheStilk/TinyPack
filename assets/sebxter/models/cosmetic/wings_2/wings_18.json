@@ -1,0 +1,8 @@
+{
+    "parent": "sebxter:cosmetic/wings_2/wings_template",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "sebxter:cosmetic/wings_2/wings_18",
+		"particle": "sebxter:cosmetic/wings_2/wings_18"
+	}
+}
