@@ -18,33 +18,56 @@
   "overlays": {
     "entries": [
       {
-        "formats": [
-          15,
-          35
-        ],
+        "min_format": 15,
+        "max_format": 36,
+        "formats": {
+          "min_inclusive": 15,
+          "max_inclusive": 54
+        },
         "directory": "modelengine_1_19_4"
       },
       {
-        "formats": [
-          36,
-          54
-        ],
+        "min_format": 36,
+        "max_format": 32767,
+        "formats": {
+          "min_inclusive": 36,
+          "max_inclusive": 32767
+        },
         "directory": "modelengine_1_21_2"
       },
       {
-        "formats": [
-          55,
-          62
-        ],
+        "min_format": 55,
+        "max_format": 32767,
+        "formats": {
+          "min_inclusive": 55,
+          "max_inclusive": 32767
+        },
         "directory": "modelengine_1_21_5"
       },
       {
-        "formats": [
-          63,
-          64
-        ],
+        "min_format": 63,
+        "max_format": 32767,
+        "formats": {
+          "min_inclusive": 63,
+          "max_inclusive": 32767
+        },
         "directory": "modelengine_1_21_6"
+      },
+      {
+        "min_format": 84,
+        "max_format": 32767,
+        "formats": {
+          "min_inclusive": 84,
+          "max_inclusive": 32767
+        },
+        "directory": "modelengine_26_1"
       }
+    ]
+  },
+  "sodium": {
+    "ignored_shaders": [
+      "rendertype_entity_translucent.fsh",
+      "rendertype_entity_translucent.vsh"
     ]
   }
 }
