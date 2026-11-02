@@ -3,7 +3,7 @@
     "pack_format": 46,
     "supported_formats": [
       15,
-      64
+      75
     ],
     "min_format": [
       15,
@@ -19,7 +19,7 @@
     "entries": [
       {
         "min_format": 15,
-        "max_format": 36,
+        "max_format": 54,
         "formats": {
           "min_inclusive": 15,
           "max_inclusive": 54
