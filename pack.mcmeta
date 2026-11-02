@@ -3,16 +3,13 @@
     "pack_format": 46,
     "supported_formats": [
       15,
-      75
+      97
     ],
     "min_format": [
       15,
       0
     ],
-    "max_format": [
-      75,
-      0
-    ],
+    "max_format": 97,
     "description": "§x§3§8§e§f§7§dTinyWorld §7• §fРесурспак\n§b» §7Создай величайшую страну"
   },
   "overlays": {
@@ -55,19 +52,19 @@
       },
       {
         "min_format": 63,
-        "max_format": 75,
+        "max_format": 97,
         "formats": {
           "min_inclusive": 63,
-          "max_inclusive": 75
+          "max_inclusive": 97
         },
         "directory": "modelengine_1_21_6_item"
       },
       {
         "min_format": 84,
-        "max_format": 32767,
+        "max_format": 84,
         "formats": {
           "min_inclusive": 84,
-          "max_inclusive": 32767
+          "max_inclusive": 84
         },
         "directory": "modelengine_26_1"
       }
