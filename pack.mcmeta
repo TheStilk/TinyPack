@@ -55,10 +55,7 @@
       },
       {
         "min_format": 63,
-        "max_format": [
-          97,
-          1
-        ],
+        "max_format": 97,
         "formats": {
           "min_inclusive": 63,
           "max_inclusive": 97
@@ -67,13 +64,10 @@
       },
       {
         "min_format": 84,
-        "max_format": [
-          97,
-          1
-        ],
+        "max_format": 84,
         "formats": {
           "min_inclusive": 84,
-          "max_inclusive": 97
+          "max_inclusive": 84
         },
         "directory": "modelengine_26_1"
       }
