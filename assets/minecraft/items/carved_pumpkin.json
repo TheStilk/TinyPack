@@ -1,0 +1,46 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {
+        "threshold": 30101.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "winterbiome:item/christmas_hat"
+        }
+      },
+      {
+        "threshold": 30102.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "winterbiome:item/horns"
+        }
+      },
+      {
+        "threshold": 30103.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/winter_scarf"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:select",
+      "property": "minecraft:display_context",
+      "cases": [
+        {
+          "when": "head",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/carved_pumpkin"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:block/carved_pumpkin"
+      }
+    }
+  }
+}
