@@ -21,33 +21,13 @@
         "threshold": 30103.0,
         "model": {
           "type": "minecraft:model",
-          "model": "winterbiome:item/scarf"
-        }
-      },
-      {
-        "threshold": 30104.0,
-        "model": {
-          "type": "minecraft:model",
           "model": "minecraft:block/carved_pumpkin"
         }
       }
     ],
     "fallback": {
-      "type": "minecraft:select",
-      "property": "minecraft:display_context",
-      "cases": [
-        {
-          "when": "head",
-          "model": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/carved_pumpkin"
-          }
-        }
-      ],
-      "fallback": {
-        "type": "minecraft:model",
-        "model": "minecraft:block/carved_pumpkin"
-      }
+      "type": "minecraft:model",
+      "model": "minecraft:block/carved_pumpkin"
     }
   }
 }
